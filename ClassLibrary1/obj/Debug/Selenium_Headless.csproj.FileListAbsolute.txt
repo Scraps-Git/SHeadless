@@ -1,0 +1,15 @@
+C:\Users\jastaylor\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\phantomjs.exe
+C:\Users\jastaylor\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\phantomjs-license.txt
+C:\Users\jastaylor\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\jastaylor\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\jastaylor\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.dll
+C:\Users\jastaylor\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\WebDriver.dll
+C:\Users\jastaylor\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\WebDriver.Support.dll
+C:\Users\jastaylor\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.xml
+C:\Users\jastaylor\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\WebDriver.xml
+C:\Users\jastaylor\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\WebDriver.Support.xml
+C:\Users\jastaylor\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\jastaylor\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\jastaylor\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\Selenium_Headless.csprojResolveAssemblyReference.cache
+C:\Users\jastaylor\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\Ionic.Zip.dll
+C:\Users\jastaylor\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
